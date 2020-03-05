@@ -3,6 +3,10 @@
 #Convertendo imagem
 #
 #Gustavo lobo
+#
+#Bia esteve aqui.
+#
+#bjos Gustavo
 
 
 cd imagens-livros
